@@ -10,7 +10,7 @@ Follow the instruction and write code just below the instruction.
 // your code goes here
 ```
 
-- Go to this [link](https://awoiaf.westeros.org/index.php/List_of_characters) and choose any charactor you like and click on the link. For example [Arya Stark](https://awoiaf.westeros.org/index.php/Arya_Stark)
+- Go to this [link](https://awoiaf.westeros.org/index.php/List_of_characters) and choose any charactor you like and click on the link.If you don't know the charaters use this [Arya Stark](https://awoiaf.westeros.org/index.php/Arya_Stark)
 
 ```js
 // your code goes here

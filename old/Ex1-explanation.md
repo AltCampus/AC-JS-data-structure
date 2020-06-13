@@ -8,7 +8,7 @@
 - `key` and `value` is seperated by `:`
 - `value` can be primitive or non-primitive data types.
 - Objects are mutable (can be changed)
-- Object does not retain the order you defined the keys
+- Object does not retain the order you defined the keys (If you want to retain the order use Map)
 
 Example:
 
