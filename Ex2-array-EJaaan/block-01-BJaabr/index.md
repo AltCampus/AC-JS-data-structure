@@ -1,8 +1,6 @@
 ## BLOCK-readText
 
-# Data Structure (Array and Objects)
-
-## Object
+## Array
 
 - Objects are non-primitve data type.
 - Use `{}` to define an object also known as Object Literal
@@ -181,5 +179,3 @@ user.age = 32;
 ```
 
 In above code you can see you changed the value of `name` key of `user` object from 21 to 32. But the object assigned to `user` remained same. Means object can be mutated (changed).
-
-## copy by value vs copy by reference-readText
