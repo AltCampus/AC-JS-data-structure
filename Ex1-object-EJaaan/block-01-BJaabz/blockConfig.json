@@ -1,0 +1,36 @@
+{
+  "name": "Understanding Objects",
+  "displayName": "",
+  "descriptionURL": "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex1-object-EJaaan/block-01-BJaabz/index.md",
+  "uniqueCode": "BJaabz",
+  "type": "readText",
+  "level": 1,
+  "contentType": "",
+  "automatedFeedback": "",
+  "githubBranchName": "",
+  "openFile": "",
+  "isTestable": false,
+  "estimatedTimeToComplete": 0,
+  "isPotentialInterviewQuestion": false,
+  "quizOptions": {
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": ""
+  },
+  "quizCorrectAnswerOptions": [],
+  "correctAnswerExplanation": "",
+  "todo": {
+    "isReviewed": false,
+    "isAssignmentDone": true,
+    "shouldSplitBlock": false,
+    "actionsRequired": [
+      {
+        "videoId": "",
+        "scrimbaId": "",
+        "type": "toVideo",
+        "topic": ""
+      }
+    ]
+  }
+}

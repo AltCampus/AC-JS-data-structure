@@ -1,0 +1,13 @@
+{
+  "name": "Understanding Objects",
+  "uniqueCode": "EJaaan",
+  "type": "content",
+  "githubBranchName": "ex1-EJaaan",
+  "description": "",
+  "blocks": [
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex1-object-EJaaan/block-01-BJaabz/blockConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex1-object-EJaaan/block-02-BJaaca/blockConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex1-object-EJaaan/block-03-BJaacb/blockConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex1-object-EJaaan/block-04-BJaacc/blockConfig.json"
+  ]
+}

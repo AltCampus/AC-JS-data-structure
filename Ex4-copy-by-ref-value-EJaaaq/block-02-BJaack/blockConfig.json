@@ -1,0 +1,26 @@
+{
+  "name": "Assignment: Copy by value and reference",
+  "displayName": "",
+  "descriptionURL": "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex4-copy-by-ref-value-EJaaaq/block-02-BJaack/index.md",
+  "uniqueCode": "BJaack",
+  "type": "writeTextAnswer",
+  "level": 1,
+  "contentType": "",
+  "automatedFeedback": "https://youtu.be/hjDLypDwQTI",
+  "githubBranchName": "",
+  "openFile": "",
+  "isTestable": false,
+  "estimatedTimeToComplete": 0,
+  "isPotentialInterviewQuestion": false,
+  "quizOptions": { "a": "", "b": "", "c": "", "d": "" },
+  "quizCorrectAnswerOptions": [],
+  "correctAnswerExplanation": "",
+  "todo": {
+    "isReviewed": false,
+    "isAssignmentDone": true,
+    "shouldSplitBlock": false,
+    "actionsRequired": [
+      { "videoId": "", "scrimbaId": "", "type": "toVideo", "topic": "" }
+    ]
+  }
+}

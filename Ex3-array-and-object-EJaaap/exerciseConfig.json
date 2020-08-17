@@ -1,0 +1,12 @@
+{
+  "name": "Working with Objects",
+  "uniqueCode": "EJaaap",
+  "type": "content",
+  "githubBranchName": "ex3-EJaaap",
+  "description": "",
+  "blocks": [
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex3-array-and-object-EJaaap/block-01-BJaacg/blockConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex3-array-and-object-EJaaap/block-02-BJaach/blockConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex3-array-and-object-EJaaap/block-03-BJaaci/blockConfig.json"
+  ]
+}

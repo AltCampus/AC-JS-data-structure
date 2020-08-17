@@ -1,0 +1,26 @@
+{
+  "name": "Assignment: Array and Object",
+  "displayName": "",
+  "descriptionURL": "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex3-array-and-object-EJaaap/block-02-BJaach/index.md",
+  "uniqueCode": "BJaach",
+  "type": "writeTextAnswer",
+  "level": 1,
+  "contentType": "",
+  "automatedFeedback": "https://youtu.be/Qjb5EoJy56M",
+  "githubBranchName": "",
+  "openFile": "",
+  "isTestable": false,
+  "estimatedTimeToComplete": 0,
+  "isPotentialInterviewQuestion": false,
+  "quizOptions": { "a": "", "b": "", "c": "", "d": "" },
+  "quizCorrectAnswerOptions": [],
+  "correctAnswerExplanation": "",
+  "todo": {
+    "isReviewed": false,
+    "isAssignmentDone": true,
+    "shouldSplitBlock": false,
+    "actionsRequired": [
+      { "videoId": "", "scrimbaId": "", "type": "toVideo", "topic": "" }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Assignment: Object Practice",
+  "displayName": "",
+  "descriptionURL": "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex1-object-EJaaan/block-04-BJaacc/index.md",
+  "uniqueCode": "BJaacc",
+  "type": "writeCode",
+  "level": 1,
+  "contentType": "csb",
+  "automatedFeedback": "https://youtu.be/YoI2V9zyxsA",
+  "githubBranchName": "block-BJaacc",
+  "openFile": "./block-BJaacc",
+  "isTestable": false,
+  "estimatedTimeToComplete": 0,
+  "isPotentialInterviewQuestion": false,
+  "quizOptions": {
+    "a": "",
+    "b": "",
+    "c": "",
+    "d": ""
+  },
+  "quizCorrectAnswerOptions": [],
+  "correctAnswerExplanation": "",
+  "todo": {
+    "isReviewed": false,
+    "isAssignmentDone": true,
+    "shouldSplitBlock": false,
+    "actionsRequired": [
+      {
+        "videoId": "",
+        "scrimbaId": "",
+        "type": "toVideo",
+        "topic": ""
+      }
+    ]
+  }
+}

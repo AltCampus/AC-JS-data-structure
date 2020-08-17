@@ -1,0 +1,26 @@
+{
+  "name": "Copy by Value and Reference",
+  "displayName": "",
+  "descriptionURL": "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex4-copy-by-ref-value-EJaaaq/block-01-BJaacj/index.md",
+  "uniqueCode": "BJaacj",
+  "type": "readText",
+  "level": 1,
+  "contentType": "",
+  "automatedFeedback": "",
+  "githubBranchName": "",
+  "openFile": "",
+  "isTestable": false,
+  "estimatedTimeToComplete": 0,
+  "isPotentialInterviewQuestion": false,
+  "quizOptions": { "a": "", "b": "", "c": "", "d": "" },
+  "quizCorrectAnswerOptions": [],
+  "correctAnswerExplanation": "",
+  "todo": {
+    "isReviewed": false,
+    "isAssignmentDone": true,
+    "shouldSplitBlock": false,
+    "actionsRequired": [
+      { "videoId": "", "scrimbaId": "", "type": "toVideo", "topic": "" }
+    ]
+  }
+}

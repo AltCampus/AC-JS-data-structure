@@ -1,0 +1,12 @@
+{
+  "name": "Understanding Arrays",
+  "uniqueCode": "EJaaao",
+  "type": "content",
+  "githubBranchName": "ex2-EJaaao",
+  "description": "",
+  "blocks": [
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex2-array-EJaaao/block-01-BJaacd/blockConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex2-array-EJaaao/block-02-BJaace/blockConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex2-array-EJaaao/block-03-BJaacf/blockConfig.json"
+  ]
+}

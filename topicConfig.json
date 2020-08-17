@@ -1,1 +1,13 @@
-{"name":"","uniqueCode":"TJaaac","githubAssignmentRepo":"","exercises":["https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex1-object-EJaaam/exerciseConfig.json","https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex2-array-EJaaan/exerciseConfig.json","https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex2-assignment-level-1-EJaaao/exerciseConfig.json","https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex3-ref-value-EJaaap/exerciseConfig.json","https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex4-assignment-level-2-EJaaaq/exerciseConfig.json","https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex5-assignment-level-3-EJaaar/exerciseConfig.json"]}
+{
+  "name": "Data Structure (Object and Array)",
+  "uniqueCode": "TJaaac",
+  "githubAssignmentRepo": "https://github.com/AltCampus/TA-JS-data-structure-TJaaac",
+  "exercises": [
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex1-object-EJaaan/exerciseConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex2-array-EJaaao/exerciseConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex3-array-and-object-EJaaap/exerciseConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex4-copy-by-ref-value-EJaaaq/exerciseConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex5-assignment-level-2-EJaaar/exerciseConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex6-assignment-level-3-EJaaas/exerciseConfig.json"
+  ]
+}

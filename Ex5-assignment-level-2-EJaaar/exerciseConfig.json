@@ -1,0 +1,12 @@
+{
+  "name": "Assignment Level 2",
+  "uniqueCode": "EJaaar",
+  "type": "content",
+  "githubBranchName": "ex5-EJaaar",
+  "description": "",
+  "blocks": [
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex5-assignment-level-2-EJaaar/block-01-BJaacm/blockConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex5-assignment-level-2-EJaaar/block-02-BJaacn/blockConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex5-assignment-level-2-EJaaar/block-03-BJaaco/blockConfig.json"
+  ]
+}

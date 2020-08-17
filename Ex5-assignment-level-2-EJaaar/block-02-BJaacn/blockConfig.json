@@ -1,0 +1,26 @@
+{
+  "name": "Quiz 🔥",
+  "displayName": "",
+  "descriptionURL": "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex5-assignment-level-2-EJaaar/block-02-BJaacn/index.md",
+  "uniqueCode": "BJaacn",
+  "type": "writeQuiz",
+  "level": 1,
+  "contentType": "",
+  "automatedFeedback": "",
+  "githubBranchName": "",
+  "openFile": "",
+  "isTestable": false,
+  "estimatedTimeToComplete": 0,
+  "isPotentialInterviewQuestion": false,
+  "quizOptions": { "a": "true", "b": "false" },
+  "quizCorrectAnswerOptions": ["b"],
+  "correctAnswerExplanation": "Whenever new object is created it is stored at different addresses. So the value of bot variable will be different.",
+  "todo": {
+    "isReviewed": false,
+    "isAssignmentDone": true,
+    "shouldSplitBlock": false,
+    "actionsRequired": [
+      { "videoId": "", "scrimbaId": "", "type": "toVideo", "topic": "" }
+    ]
+  }
+}

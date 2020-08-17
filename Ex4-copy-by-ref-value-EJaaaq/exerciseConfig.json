@@ -1,0 +1,12 @@
+{
+  "name": "Copy by Value and Reference",
+  "uniqueCode": "EJaaaq",
+  "type": "content",
+  "githubBranchName": "ex4-EJaaaq",
+  "description": "",
+  "blocks": [
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex4-copy-by-ref-value-EJaaaq/block-01-BJaacj/blockConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex4-copy-by-ref-value-EJaaaq/block-02-BJaack/blockConfig.json",
+    "https://github.com/AltCampus/AC-JS-data-structure-TJaaac/tree/master/Ex4-copy-by-ref-value-EJaaaq/block-03-BJaacl/blockConfig.json"
+  ]
+}
