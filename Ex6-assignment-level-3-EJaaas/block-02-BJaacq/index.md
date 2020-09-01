@@ -42,7 +42,7 @@ user.brothers[0] === user3.brothers[0]; // output
 2. Copy the value of `character` variable into variable named `characterOne` and `characterTwo`.
 
 ```js
-let charactor = {
+let character = {
   charactorName: 'Sansa',
   sisters: 1,
   brothers: 4,
@@ -53,7 +53,7 @@ let charactor = {
 Check the output of below code after copying. The output of all of all of the below should be `true`
 
 ```js
-charactor === characterOne;
+character === characterOne;
 characterOne == characterTwo;
 characterTwo == character;
 ```
@@ -61,7 +61,7 @@ characterTwo == character;
 3. Clone (no reference) the value of `character` variable into variables named `characterThree` and `characterFour`.
 
 ```js
-let charactor = {
+let character = {
   charactorName: 'Sansa',
   sisters: 1,
   brothers: 4,
@@ -74,7 +74,7 @@ Check your result by comparing the values:
 All the below result should be false.
 
 ```js
-charactor === characterThree;
+character === characterThree;
 characterThree == characterFour;
 characterFour == character;
 ```
