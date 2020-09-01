@@ -74,7 +74,7 @@ Check your result by comparing the values:
 All the below result should be false.
 
 ```js
-charactor === characterOne;
-characterOne == characterTwo;
-characterTwo == character;
+charactor === characterThree;
+characterThree == characterFour;
+characterFour == character;
 ```
