@@ -12,9 +12,9 @@
   "isTestable": false,
   "estimatedTimeToComplete": 0,
   "isPotentialInterviewQuestion": false,
-  "quizOptions": { "a": "true", "b": "false" },
+  "quizOptions": { "a": "true", "b": "false", "c": "True", "d": "False" },
   "quizCorrectAnswerOptions": ["b"],
-  "correctAnswerExplanation": "Whenever new object is created it is stored at different addresses. So the value of bot variable will be different.",
+  "correctAnswerExplanation": "Whenever new object is created it is stored at different addresses. So the address of both variables will be different.",
   "todo": {
     "isReviewed": false,
     "isAssignmentDone": true,
