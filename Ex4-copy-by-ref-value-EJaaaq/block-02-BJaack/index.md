@@ -42,7 +42,7 @@ Answer the following after looking at above code along with the reason:
 
 ```js
 var users = ['sam', 'aman'];
-var usersCopy = arr;
+var usersCopy = users;
 users.push('nathan');
 ```
 
